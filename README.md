@@ -16,7 +16,7 @@ A command-line program, analogous to Lint and PyLint, to discover errors and ano
 tradier-client is a promise-based Node.js wrapper for the Tradier API. It currently works with the Market Data and Fundamentals API. [View on npm](https://www.npmjs.com/package/tradier-client) or [View source](https://github.com/vporta/tradier-client)
 
 ### DataStructures in Python
-This project is a collection of various algorithms and data structures that I ported to Python from Java based on [Princeton's Algorithms Course](https://algs4.cs.princeton.edu/code/).  
+This project is a collection of various algorithms and data structures that I ported to Python from Java based on [Princeton's Algorithms Course](https://algs4.cs.princeton.edu/code/). [View source](https://github.com/vporta/DataStructures) 
 
 ### Project-based report on Software Performance Tactics 
 A brief introduction to software performance, and architectural performance tactics used in Stevens Social. The tactics discussed are concurrency, prioritization of events and threading. [View paper](https://docs.google.com/document/d/12GfQl1AffEpAgcR9djnZ-Gk7XbKs4PRlmBulj2T5JRQ/edit?usp=sharing)
